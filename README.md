@@ -1,1 +1,1 @@
-# Decenterized Netfli
+# Decenterized Netflix
