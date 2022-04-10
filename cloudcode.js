@@ -31,5 +31,5 @@ Moralis.Cloud.define("getMyList", async (request) => {
     return data.attributes.myList;
   } else {
     return [];
-  }
+  };
 });
