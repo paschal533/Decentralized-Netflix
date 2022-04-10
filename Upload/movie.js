@@ -26,8 +26,7 @@ Promise.all(promises).then(() => {
     ipfsArray,
     {
       headers: {
-        "X-API-KEY":
-          "<Your API KEY>",
+        "X-API-KEY": process.env.API_KEY,
         "Content-Type": "application/json",
         accept: "application/json",
       },
