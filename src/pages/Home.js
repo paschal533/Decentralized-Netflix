@@ -45,7 +45,7 @@ const Home = () => {
     fetchMyList();
   }, [account]);
 
-  const dispatch = useNotification();
+ // const dispatch = useNotification();
 
   const handleNewNotification = () => {
     dispatch({
