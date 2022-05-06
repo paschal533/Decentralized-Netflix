@@ -32,7 +32,7 @@ const Home = () => {
         const theList = await Moralis.Cloud.run("getMyList", { addrs: account });
 
         const filterdA = movies.filter(function (e) {
-          return theList.indexOf(e.Name) > -1;
+         // return theList.indexOf(e.Name) > -1;
         });
 
         setMyMovies(filterdA);
