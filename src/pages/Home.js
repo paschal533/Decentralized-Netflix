@@ -35,7 +35,7 @@ const Home = () => {
           return theList.indexOf(e.Name) > -1;
         });
 
-        //setMyMovies(filterdA);
+        setMyMovies(filterdA);
         
       } catch (error) {
         console.error(error)
