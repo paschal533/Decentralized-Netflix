@@ -1,1 +1,1 @@
-# Decenterized Netflix built with moralis
+# Decenterized Netflix built with moralis and
