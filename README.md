@@ -1,1 +1,1 @@
-# Decen Netflix built with moralis and nextJs.
+# Decentralized Netflix built with moralis and nextJs.
