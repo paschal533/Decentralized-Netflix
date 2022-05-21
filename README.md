@@ -1,1 +1,1 @@
-# Decente Netflix built with moralis and nextJs.
+# Decene Netflix built with moralis and nextJs.
