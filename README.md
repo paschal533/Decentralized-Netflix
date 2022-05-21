@@ -1,1 +1,1 @@
-# Decenterize Netflix built with moralis and nextJs.
+# Decenterie Netflix built with moralis and nextJs.
